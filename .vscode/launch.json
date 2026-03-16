@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ifStatements",
+            "request": "launch",
+            "mainClass": "ifStatements",
+            "projectName": "Java-Tutorial-Repo_6058141e"
+        },
+        {
+            "type": "java",
+            "name": "shoppingCartProgram",
+            "request": "launch",
+            "mainClass": "shoppingCartProgram",
+            "projectName": "Java-Tutorial-Repo_6058141e"
+        },
+        {
+            "type": "java",
+            "name": "Run Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
